@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sumeet
-- 👀 I’m a full stack developer,My tech stack is React, Redux, Typescript, NodeJS, Express, Loopback, PHP, Symfony
+- 👀 I’m a full stack developer. My tech stack is React, Redux, Typescript, NodeJS, Express, Loopback, PHP, Symfony
 - 🌱 I’m currently learning Python/DJando
