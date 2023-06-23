@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sumeet
 - 👀 I’m a full stack developer. My tech stack is React, Redux, Typescript, NodeJS, Express, Loopback, PHP, Symfony
-- 🌱 I’m currently learning Python/DJango
+- 🌱 I’m also into Algo trading, I have built numerous Algo strategies & indicators using Python libraries like Ta-lib, Pandas, Numpy, Pandas TA, Plotly, and Matplotlib.
